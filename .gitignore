@@ -1,0 +1,10 @@
+.env
+.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+*.egg-info/
+logs/
+credentials/
+credentials.json
+terraform-demo-510704-9030919598e6.json

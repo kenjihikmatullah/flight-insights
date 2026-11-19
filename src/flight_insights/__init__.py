@@ -1,0 +1,1 @@
+"""Changi arrival ingestion pipeline."""
